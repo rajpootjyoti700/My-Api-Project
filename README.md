@@ -1,8 +1,8 @@
-# Blogging Platform/My-Api-base-Project
+# Vision-India/My-Api-base-Project
 
 **Project Overview:**
-This project involves developing a robust blogging platform using Spring Boot for the backend and Postman for API testing.
-The platform allows users to create and manage blog posts, categorize content, and interact through comments. 
+This project involves developing a robust Vision-India platform using Spring Boot for the backend and Postman for API testing.
+The platform allows users to create and manage Documents od problems with their solution Idia, categorize content, and interact through comments and Like Button. 
 The system includes user authentication and authorization to manage access control.
 
 ## Key Features
