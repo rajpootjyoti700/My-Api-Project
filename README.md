@@ -6,6 +6,7 @@ The platform allows users to create and manage Documents od problems with their 
 The system includes user authentication and authorization to manage access control.
 
 ## Key Features
+![Screenshot (1)](https://github.com/user-attachments/assets/e787582d-c111-4e81-8201-4330929f6d62)
 
 ### User Management
 - User Registration and Login
