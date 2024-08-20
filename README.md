@@ -1,6 +1,16 @@
-# Vision India Project
+# Vision India Project Description
 
-The Vision India project is an API-based initiative inspired by the Vision India@2047 program introduced by the Indian government in December 2023. This project aims to provide a platform where users can envision the future of our country by the year 2047 across various domains.
+Portal Vision India is api base project with seperated frontend and backend in which i use postman for api testing contain 25+ api testing 
+and swagger for api documentation  jwt authenticationso,  so idea  are based on the Vision India@2047
+introduce by the Indian governmet in december 2023 in which we were given our thoughts like where
+ we wants to see our Country in year 2047 in diffrent diffrent domain but there was lots of data for 
+single portal So this portal is modify idea of that like it will be a state portal in which user 
+can register and if they seeing any problem in diffrent category like in sports ,education so they can 
+make a proper document of problem and propose solutions across various categories there is comment section also and like button 
+along with doument and have feature of multiple category (education, sports ,aggriculture ,rural developmet,healthcare etc)
+ so that user can visit and choose their domain and there is update and delete option for documnetation ,i use the html css js
+ and react for frontend and spring boot for backend this is a seprate frontend backend project so if any frontend developer
+ wants to use the backend they can becoz it is documented by swagger  
 
 ## Key Features
 
